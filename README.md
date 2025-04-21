@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 21-04-2025
 
 ## AIM:
 
@@ -53,10 +53,12 @@
 
 
 ## Output:
+### MechAnalyzer Graph
 
+### VAD, IC and SFA module
 
-### Name:
-### Register Number: 
+#### Name: MITHUN S
+#### Register Number: 212224240088
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
