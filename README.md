@@ -54,8 +54,11 @@
 
 ## Output:
 ### MechAnalyzer Graph
+![MechaAnalyzer Graph](https://github.com/user-attachments/assets/58d685a2-4ad6-4ce2-bc77-9625ec4585ba)
 
 ### VAD, IC and SFA module
+![VAD, IC and SFA module](https://github.com/user-attachments/assets/149394a7-e16c-4e84-b353-20933edc1a5f)
+
 
 #### Name: MITHUN S
 #### Register Number: 212224240088
